@@ -15,11 +15,11 @@ function App() {
         </GridItem>
         <Show above="lg">
           <GridItem area="aside" bg="gold">
-            aside
+            Aside
           </GridItem>
         </Show>
         <GridItem area="main" bg="dodgerblue">
-          main
+          Main
         </GridItem>
       </Grid>
     </div>
